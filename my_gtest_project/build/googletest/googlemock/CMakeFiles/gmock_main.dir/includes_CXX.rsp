@@ -1,0 +1,1 @@
+-isystem D:/My_Code_Space1/my_gtest_project/googletest/googlemock/include -isystem D:/My_Code_Space1/my_gtest_project/googletest/googlemock -isystem D:/My_Code_Space1/my_gtest_project/googletest/googletest/include -isystem D:/My_Code_Space1/my_gtest_project/googletest/googletest
